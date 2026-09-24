@@ -489,12 +489,12 @@ Additional slicers allow users to dynamically analyze the data by:
 
 ### Age Group Analysis
 
-![Age Group Analysis]([images/age-group-analysis.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/2b2d085e76821be5aba54b42ade7f7f16cbd1391/images/age-group-analysis.png))
+![Age Group Analysis]([images/age-group-analysis.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/2b2d085e76821be5aba54b42ade7f7f16cbd1391/images/age-group-analysis.png)
 
 
 ### Info
 
-![image alt]([images/info.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/9f00d9bcc4dd33f5edada5ab40f0e4885c1e4d0b/images/info.png))
+![image alt]([images/info.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/9f00d9bcc4dd33f5edada5ab40f0e4885c1e4d0b/images/info.png)
 
 
 ---
