@@ -207,7 +207,6 @@ dim_date ───────── fact_premiums
 ```
 
 > **Data Model Screenshot:**
-> Add your Power BI data-model image here.
 
 ![image alt](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/ed745f1627f7bdff5f936d1eab9c32777cc27a21/images/data-model.png)
 
@@ -478,37 +477,25 @@ Additional slicers allow users to dynamically analyze the data by:
 
 ### Home Page
 
-```markdown
-![Home Page](images/home-page.png)
-```
+![image alt](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/113d45dd763749762f0ac493f143ef7848315588/images/homepage.png)
 
 ### General Overview
 
-```markdown
-![General Overview](images/dashboard-overview.png)
-```
+![image alt](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/113d45dd763749762f0ac493f143ef7848315588/images/general-overview.png)
 
 ### Sales Mode Analysis
 
-```markdown
-![Sales Mode Analysis](images/sales-mode-analysis.png)
-```
+![image alt](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/113d45dd763749762f0ac493f143ef7848315588/images/sales-mode.png)
 
 ### Age Group Analysis
 
-```markdown
-![Age Group Analysis](images/age-group-analysis.png)
-```
+![Age Group Analysis]([images/age-group-analysis.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/2b2d085e76821be5aba54b42ade7f7f16cbd1391/images/age-group-analysis.png))
+
 
 ### Info
 
-```markdown
-![Info](images/info.png)
-```
+![image alt]([images/info.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/9f00d9bcc4dd33f5edada5ab40f0e4885c1e4d0b/images/info.png))
 
-
-
-> Replace the image paths above with the actual names of the screenshots in your GitHub repository.
 
 ---
 
