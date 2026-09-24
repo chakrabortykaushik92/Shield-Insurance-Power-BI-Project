@@ -210,8 +210,7 @@ dim_date ───────── fact_premiums
 > Add your Power BI data-model image here.
 
 ```markdown
-<img width="1820" height="1036" alt="home-page" src="https://github.com/user-attachments/assets/c95f10f8-3984-4103-afd9-06f3e058dda5" />
-<img width="1660" height="1166" alt="data-model" src="https://github.com/user-attachments/assets/ae8a22e8-ca6a-4437-a0cc-37607c96972f" />
+![dashboard.png](https://github.com/user-attachments/assets/ae8a22e8-ca6a-4437-a0cc-37607c96972f)
 
 ```
 
