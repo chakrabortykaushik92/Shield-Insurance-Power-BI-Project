@@ -601,11 +601,11 @@ This Power BI solution demonstrates how insurance organizations can move from ra
 
 ### 📊 Live Power BI Dashboard
 
-**[View Live Dashboard](ATTACHED_LINK)**
+**[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBhY2Y4ZWMtYzU4NC00NGY2LWI3YTMtZjU3NTRkZTgzMDI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ### 🎥 Project Presentation
 
-**[Watch Video Presentation](VIDEO_LINK)**
+**[Watch Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7508604542343819266/)**
 
 ---
 
