@@ -210,7 +210,7 @@ dim_date ───────── fact_premiums
 > Add your Power BI data-model image here.
 
 ```markdown
-![Data Model](images/data-model.png)
+![Data Model]([images/data-model.png](https://github.com/chakrabortykaushik92/Shield-Insurance-Power-BI-Project/blob/main/images/data-model.png))
 ```
 
 ---
